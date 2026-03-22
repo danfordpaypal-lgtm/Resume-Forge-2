@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+# Sitemap location — Google reads this automatically
+Sitemap: https://resumeforge.vercel.app/sitemap.xml

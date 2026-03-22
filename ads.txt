@@ -1,0 +1,5 @@
+# ads.txt — Google AdSense authorisation file
+# Replace YOUR-PUBLISHER-ID with your actual ca-pub-XXXXXXXXXXXXXXXX number
+# Example: google.com, ca-pub-1234567890123456, DIRECT, f08c47fec0942fa0
+
+google.com, YOUR-PUBLISHER-ID, DIRECT, f08c47fec0942fa0
